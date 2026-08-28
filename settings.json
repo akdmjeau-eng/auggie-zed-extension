@@ -1,0 +1,9 @@
+{
+  "agent_servers": {
+    "Auggie CLI": {
+      "command": "auggie",
+      "args": ["--acp"],
+      "env": {}
+    }
+  }
+}
